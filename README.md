@@ -2,9 +2,14 @@
 > ADD AT YOUR OWN RISK! <br>
 > THIS CONTROLS FIRE IN YOUR HOUSE!<br>
 > IF YOU ARE NOT COMFORTABLE WITH ANY OF THIS, WALK AWAY
+> I AM NOT RESPONSIBEL FOR ANY DAMAGE TO YOUR PELLET STOVE OR HOUSE.
+
 
 # Add wifi to your PelPro 130
 *This has only been tested on a PelPro 130*
+
+## YOU WILL NEED TO TEST THIS BEFORE RUNNING UNATTENDED
+I have had this running for months with no issues. Again, If you don't feel comfortable messing with the controls of you pellet stove - **DON'T DO IT!**
 
 ## Purpose
 The purpose of this is to be able to turn on the pellet stove from anywhere in the house. Maybe it's 2am and it's getting cold in the house. Go to the IP address, login, and turn it on. You cann turn it off, adjust heat level, all from the comfort of your bed.<br>
